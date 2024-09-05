@@ -24,7 +24,7 @@ section {
   overflow: hidden;
   align-items: center;
   font-size: 30px;
-  color: black;
+  color: #000000;
   text-align: center;
   white-space: nowrap;
   animation: typing 5s steps(20) infinite alternate, blink 0.7s infinite;
@@ -149,3 +149,4 @@ nav a:hover ~ .nav-indicator {
     transform: translateY(0); /* Gambar kembali ke posisi semula */
   }
 }
+
